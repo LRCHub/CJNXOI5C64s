@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "不埒な喝采",
+  "base_artist": "ポリスピカデリー feat. 可不",
+  "createdAt": "2026-03-02T17:51:27.177157Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "不埒な喝采",
+      "artist": "ポリスピカデリー feat. 可不",
+      "has_synced": false,
+      "path": "select/pl_01_不埒な喝采_ポリスピカデリー_feat._可不.txt"
+    }
+  ]
+}
